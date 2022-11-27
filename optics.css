@@ -1,0 +1,28 @@
+.p-5 {
+    background-color:rgb(255, 123, 0);
+    background: rgb(255, 123, 0);
+}
+
+#p5 {
+    background-color:rgb(255, 123, 0);
+    background: rgb(255, 123, 0);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.mt-5 {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.nav-link-active {
+    color: rgb(255, 123, 0);
+    background-color:rgb(255, 123, 0);
+}
+
+.nav-link {
+    color:rgb(255, 123, 0);
+}
+
+/*.list-group-item {
+    color:rgb(255, 123, 0);
+}*/
